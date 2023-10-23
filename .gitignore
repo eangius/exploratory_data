@@ -1,0 +1,12 @@
+# MISCELLANEOUS
+**/.DS_Store
+*.swp
+*.diff
+.coverage*
+
+# ENVIRONMENTS
+.idea
+.venv*
+__pycache__/
+.pytest_cache
+.ipynb_checkpoints/

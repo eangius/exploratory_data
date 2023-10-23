@@ -1,0 +1,6 @@
+geotext             # location gazeteer
+jupyterlab          # notebook
+pandas              # dataframes
+scikit-learn        # ml pipelines
+spacy-langdetect    # language detection
+wordcloud           # word cloud vizualization
