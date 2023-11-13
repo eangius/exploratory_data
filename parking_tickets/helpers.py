@@ -123,3 +123,5 @@ def plot_prejudice_by_type(df: pd.DataFrame, infractions: set):
 
     df_tmp = 100 * df_tmp / df_tmp.sum(axis='rows')
     return df_tmp
+
+
