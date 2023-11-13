@@ -2,6 +2,5 @@ jupyterlab          # notebook
 pandas              # dataframes
 seaborn             # visualizations
 scikit-learn        # ml pipelines
-geopy               # geocoding
-pyap                # address parsing
 address-parser      # address parsing
+phonetics           # addr-parser dependency
