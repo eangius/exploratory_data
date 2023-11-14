@@ -4,7 +4,7 @@ Various one-off mini projects showcasing exploratory analysis or algorithm desig
 
 ## Project Index
 
-* **[Business Names](business_names)**<br>
+* **[Business Names](business_names/insights.ipynb)**<br>
 Exploratory analysis for insights from world wide POI names.
  
 
@@ -12,7 +12,7 @@ Exploratory analysis for insights from world wide POI names.
 Optimization algorithm for the NP-hard problem of scheduling jobs with finite linear resources.
 
 
-* **[Parking Tickets](parking_tickets)**<br>
+* **[Parking Tickets](parking_tickets/insights.ipynb)**<br>
 Exploratory analysis for biases in parking tickets.
 
 
