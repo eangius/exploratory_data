@@ -1,0 +1,4 @@
+scikit-learn        # ml pipelines
+tensorflow          # machine learning
+-e git+https://github.com/eangius/scikit-lab.git#egg=scikitlab
+

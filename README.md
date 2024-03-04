@@ -12,8 +12,13 @@ Exploratory analysis for insights from world wide POI names.
 Optimization algorithm for the NP-hard problem of scheduling jobs with finite linear resources.
 
 
+* **[Manufacturing Defects](manufacturing_defects)**<br>
+Anomaly detection for detecting when manufacturing sensors yield suspicious signals.
+
+
 * **[Parking Tickets](parking_tickets/insights.ipynb)**<br>
 Exploratory analysis for biases in parking tickets.
+
 
 
 
